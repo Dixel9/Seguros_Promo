@@ -7,7 +7,7 @@ Gostaria de um feedback esxplicando qual o método mais viável para o consumo e
 No script "DUVIDAS.js", tem um caminho que comecei a tomar, mas gostaria do feedback para saber se está no caminho certo.<br>
 Muito Obrigado.<br>
 
-Para teste foi publicado o site com segurança. Para acessar seguem o link e senha abaixo.<br>
+Para teste o site foi publicado de modo privado e com segurança. Para acessar seguem o link e senha abaixo.<br>
 https://segurospromo.webflow.io/<br>
 senha: segurospromo<br>
 
