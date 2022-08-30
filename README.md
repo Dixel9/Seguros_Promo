@@ -2,8 +2,9 @@
 
 Repositório criado para entregar o teste para a vaga de desenvolvedor web.
 Para a criação foi usada a IDE Webflow, HTML e CSS.
-Na parte do consumo da API tive dificuldade em relação a implemetação. Usei o Fetch, mas mesmo assim não consegui separar os objetos do array.
-Gostaria de um feedback esxplicando qual o método mais viável para o consumo e separação adequada por tópicos.
+Na parte do consumo da API tive dificuldade em relação a implemetação. Usei uma função assíncrona usando o Fetch, mas mesmo assim não consegui separar os objetos do array.
+Gostaria de um feedback esxplicando qual o método mais viável para o consumo e separação adequada por tópicos.<br>
+No script "DUVIDAS.js", tem um caminho que comecei a tomar, mas gostaria do feedback para saber se está no caminho certo.<br>
 Muito Obrigado.<br>
 
 Para teste foi publicado o site com segurança. Para acessar seguem o link e senha abaixo.<br>
